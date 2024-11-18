@@ -89,4 +89,22 @@ How to Use the App
 API Configuration
 
 Save your API of SerpAPI and OpenAPI in a .env file and load these API as shown in the main.py source code file.
-   
+
+
+Optional Features
+
+1. Dynamic Prompting:
+
+   Enter any task-specific instructions in the prompt section for highly customized results.
+
+2. Customizable Output:
+
+   Modify the app to adjust the output format or integrate additional processing steps.
+
+3. Export Capabilities:
+
+   Download the raw fetched web data or the processed results as .txt files.
+
+4. Scalable Deployment:
+
+   Deploy the app on cloud platforms like AWS, Azure, or Streamlit Sharing for public use.   
