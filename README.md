@@ -50,3 +50,37 @@ Run the App: Start the Streamlit application:
 (bash)
 
 streamlit run main.py   
+
+
+How to Use the App
+
+1. Upload a Dataset:
+
+   Use the sidebar to upload a CSV file containing your dataset.
+   The dataset should include columns with queries or other relevant data.
+
+2. Select Query:
+
+   After uploading, select a column from the dataset.
+   Choose a specific query to fetch web results.
+  
+3. Fetch Web Results:
+
+   Click the Fetch Web Results button to retrieve data from the web based on the selected query.
+   The app will display the fetched results with titles, links, and snippets.
+
+4. Enter a Prompt:
+
+   Under the LLM Integration section, enter any task-specific prompt. For example:
+     Summarize the fetched results.
+     Extract specific information from the data.
+     Generate insights based on the query.
+
+5. Submit the Prompt:
+
+   Click the Submit button to process the data with OpenAI’s GPT model.
+   The generated result will be displayed on the screen.
+
+6. Download Results:
+
+   After generating results, click the download button to save the output as a .txt file.
