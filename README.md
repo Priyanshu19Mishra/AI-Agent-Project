@@ -107,4 +107,6 @@ Optional Features
 
 4. Scalable Deployment:
 
-   Deploy the app on cloud platforms like AWS, Azure, or Streamlit Sharing for public use.   
+   Deploy the app on cloud platforms like AWS, Azure, or Streamlit Sharing for public use.
+
+The working and the interaction of the interface has been in the walkthrough video. The link is provided here and Screenshot for the same has been shared in this repository under the Image folder.     
