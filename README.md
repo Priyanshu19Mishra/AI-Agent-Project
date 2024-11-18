@@ -25,4 +25,28 @@ Prerequisites
    serpapi
    
    openai
+   
    python-dotenv
+
+Installation Steps
+
+Clone the Repository:
+bash
+Copy code
+git clone https://github.com/your-username/AI-Agent-Project.git
+cd AI-Agent-Project
+
+Install Dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+
+Add API Keys: Create a .env file in the project root directory and add your API keys:
+Copy code
+OPENAI_API_KEY=your_openai_api_key
+SERPAPI_KEY=your_serpapi_key
+
+Run the App: Start the Streamlit application:
+bash
+Copy code
+streamlit run main.py   
