@@ -9,3 +9,16 @@ Key Features
 3. Custom Prompt Handling: Accept any user-defined prompt for operations on the fetched data.
 4. LLM Integration: Leverage OpenAI's GPT to process web data and return meaningful insights based on the prompt.
 5. Export Results: Download processed results as a .txt file for offline use.
+
+
+Setup Instructions
+Follow these steps to set up and run the application:
+
+Prerequisites
+1. Python 3.7 or higher installed on your machine.
+2. Required Python libraries:
+   streamlit
+   pandas
+   serpapi
+   openai
+   python-dotenv
