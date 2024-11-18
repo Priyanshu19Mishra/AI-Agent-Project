@@ -1,6 +1,7 @@
 # AI-Agent-Project
 
 Project Overview
+
 The AI Agent project demonstrates the integration of large language models (LLMs) with automated web searches to create an interactive AI tool. Users can upload a dataset, fetch relevant web data for specific queries, and interact with the retrieved data using custom prompts. The app utilizes OpenAI's GPT models for natural language processing and SerpAPI for web searches, all within a user-friendly Streamlit interface.
 
 Key Features
