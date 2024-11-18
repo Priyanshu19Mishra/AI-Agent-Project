@@ -84,3 +84,9 @@ How to Use the App
 6. Download Results:
 
    After generating results, click the download button to save the output as a .txt file.
+
+
+API Configuration
+
+Save your API of SerpAPI and OpenAPI in a .env file and load these API as shown in the main.py source code file.
+   
