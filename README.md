@@ -17,8 +17,12 @@ Follow these steps to set up and run the application:
 Prerequisites
 1. Python 3.7 or higher installed on your machine.
 2. Required Python libraries:
+
    streamlit
+   
    pandas
+   
    serpapi
+   
    openai
    python-dotenv
