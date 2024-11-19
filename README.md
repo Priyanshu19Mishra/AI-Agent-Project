@@ -110,5 +110,7 @@ Optional Features
 
    Deploy the app on cloud platforms like AWS, Azure, or Streamlit Sharing for public use.
 
-The working and the interaction of the interface has been in the walkthrough video ( https://drive.google.com/file/d/1C_6DZOAq1XwmeGuA_DcIR3_4Ccd4Ixax/view?usp=sharing ). 
+The working and the interaction of the interface has been in the walkthrough video 
+( https://drive.google.com/file/d/1C_6DZOAq1XwmeGuA_DcIR3_4Ccd4Ixax/view?usp=sharing ). 
+
 The link is provided here and Screenshot for the same has been shared in this repository under the Image folder.     
